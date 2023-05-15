@@ -1,6 +1,6 @@
 {
   "name": "san-mqtt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "MQTT adaptor for Angular TS Applications",
   "main": "index.js",
   "scripts": {
