@@ -1,0 +1,28 @@
+{
+  "name": "san-mqtt",
+  "version": "1.0.0",
+  "description": "MQTT adaptor for Angular TS Applications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saravanans55/san-mqtt.git"
+  },
+  "keywords": [
+    "mqtt",
+    "angular",
+    "typescript",
+    "javascript",
+    "iot",
+    "connection",
+    "communication"
+  ],
+  "author": "Saravanan S",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saravanans55/san-mqtt/issues"
+  },
+  "homepage": "https://github.com/saravanans55/san-mqtt#readme"
+}
